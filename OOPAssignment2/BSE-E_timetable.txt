@@ -1,0 +1,24 @@
+Friday:
+4 Dr.Faisal (ICE) (Room 4-19) (09:00-10:30) (Fri)
+5 Dr.Ubaid (Dri) (Room 4-18) (11:00-12:30) (Fri)
+4 Dr.Faisal (ICE) (Room 4-19) (14:00-15:30) (Fri)
+
+Monday:
+1 Mr.Sara (GRA) (Room 4-17) (09:00-10:30) (Mon)
+2 Dr.Khan (DL) (Room 4-18) (11:00-12:30) (Mon)
+3 Engr.Izaz (DL-Lab) (Room 4-01) (14:00-15:30) (Mon)
+
+Thursday:
+4 Dr.Faisal (ICE) (Room 4-19) (09:00-10:30) (Thu)
+5 Dr.Ubaid (Dri) (Room 4-18) (11:00-12:30) (Thu)
+4 Dr.Faisal (ICE) (Room 4-19) (14:00-15:30) (Thu)
+
+Tuesday:
+1 Mr.Sara (GRA) (Room 4-17) (09:00-10:30) (Tue)
+2 Dr.Khan (DL) (Room 4-18) (11:00-12:30) (Tue)
+3 Engr.Izaz (DL-Lab) (Room 4-01) (14:00-15:30) (Tue)
+
+Wednesday:
+1 Mr.Sara (GRA) (Room 4-17) (09:00-10:30) (Wed)
+2 Dr.Khan (DL) (Room 4-18) (11:00-12:30) (Wed)
+3 Engr.Izaz (DL-Lab) (Room 4-01) (14:00-15:30) (Wed)

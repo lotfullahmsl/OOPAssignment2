@@ -1,0 +1,5 @@
+1 Dr.Lotfullah (AI) 4-17 
+2 Dr.Hamza (AI-Lab) 4-02 
+3 Engr.Qasim (DS&A) 4-18 
+4 Engr.Naveed (OHS) 4-19 
+5 Dr.Muslimwal (ML) 4-20 

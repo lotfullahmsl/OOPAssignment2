@@ -1,0 +1,5 @@
+1 Dr.Joddat (DBMS) 4-17 
+2 Engr.Iqra (AP-Lab) 4-02 
+3 Dr.Adeel (AC) 4-18 
+4 Dr.Rahimullah (IS) 4-19 
+5 Dr.Ali (EFC) 4-20 

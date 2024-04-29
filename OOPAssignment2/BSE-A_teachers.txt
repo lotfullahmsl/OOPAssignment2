@@ -1,0 +1,5 @@
+1 Engr.Sadaf (DS) 
+2 Dr.Tamim (OOP)
+3 Engr.Waleed (OOP-Lab)
+4 Dr.Awais (ISE) 
+5 Mr.Zubair (LA)

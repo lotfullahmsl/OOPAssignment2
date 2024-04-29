@@ -1,0 +1,24 @@
+Friday:
+4 Engr.Naveed (OHS) (Room 4-18) (09:00-10:30) (Fri)
+5 Dr.Muslimwal (ML) (Room 4-17) (11:00-12:30) (Fri)
+4 Engr.Naveed (OHS) (Room 4-18) (14:00-15:30) (Fri)
+
+Monday:
+1 Dr.Lotfullah (AI) (Room 4-17) (09:00-10:30) (Mon)
+2 Dr.Hamza (AI-Lab) (Room 4-02) (11:00-12:30) (Mon)
+3 Engr.Qasim (DS&A) (Room 4-18) (14:00-15:30) (Mon)
+
+Thursday:
+4 Engr.Naveed (OHS) (Room 4-18) (09:00-10:30) (Thu)
+5 Dr.Muslimwal (ML) (Room 4-17) (11:00-12:30) (Thu)
+4 Engr.Naveed (OHS) (Room 4-18) (14:00-15:30) (Thu)
+
+Tuesday:
+1 Dr.Lotfullah (AI) (Room 4-17) (09:00-10:30) (Tue)
+2 Dr.Hamza (AI-Lab) (Room 4-02) (11:00-12:30) (Tue)
+3 Engr.Qasim (DS&A) (Room 4-18) (14:00-15:30) (Tue)
+
+Wednesday:
+1 Dr.Lotfullah (AI) (Room 4-17) (09:00-10:30) (Wed)
+2 Dr.Hamza (AI-Lab) (Room 4-02) (11:00-12:30) (Wed)
+3 Engr.Qasim (DS&A) (Room 4-18) (14:00-15:30) (Wed)

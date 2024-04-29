@@ -1,0 +1,24 @@
+Friday:
+5 Dr.Ali (EFC) (Room 4-19) (09:00-10:30) (Fri)
+3 Dr.Adeel (Dri) (Room 4-18) (11:00-12:30) (Fri)
+5 Dr.Ali (EFC) (Room 4-19) (14:00-15:30) (Fri)
+
+Monday:
+1 Dr.Joddat (DBMS) (Room 4-17) (09:00-10:30) (Mon)
+2 Engr.Iqra (AP-Lab) (Room 4-02) (11:00-12:30) (Mon)
+3 Dr.Adeel (AC) (Room 4-18) (14:00-15:30) (Mon)
+
+Thursday:
+4 Dr.Rahimullah (IS) (Room 4-19) (09:00-10:30) (Thu)
+4 Dr.Rahimullah (IS) (Room 4-19) (11:00-12:30) (Thu)
+4 Dr.Rahimullah (IS) (Room 4-19) (14:00-15:30) (Thu)
+
+Tuesday:
+1 Dr.Joddat (DBMS) (Room 4-17) (09:00-10:30) (Tue)
+2 Engr.Iqra (AP-Lab) (Room 4-02) (11:00-12:30) (Tue)
+3 Dr.Adeel (AC) (Room 4-18) (14:00-15:30) (Tue)
+
+Wednesday:
+1 Dr.Joddat (DBMS) (Room 4-17) (09:00-10:30) (Wed)
+2 Engr.Iqra (AP-Lab) (Room 4-02) (11:00-12:30) (Wed)
+3 Dr.Adeel (AC) (Room 4-18) (14:00-15:30) (Wed)

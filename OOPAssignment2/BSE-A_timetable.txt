@@ -1,0 +1,24 @@
+Friday:
+4 Dr.Awais (ISE) (Room 4-17) (09:00-10:30) (FRI)
+4 Dr.Awais (ISE) (Room 4-18) (11:00-12:30) (FRI)
+4 Dr.Awais (ISE) (Room 4-19) (14:00-15:30) (FRI)
+
+Monday:
+3 Engr.Waleed (OOP-Lab) (Room 4-01) (14:00-15:30) (MON)
+1 Engr.Sadaf (DS) (Room 4-17) (09:00-10:30) (MON)
+2 Dr.Tamim (OOP) (Room 4-18) (11:00-12:30) (MON)
+
+Thursday:
+4 Dr.Awais (ISE) (Room 4-17) (09:00-10:30) (THU)
+4 Dr.Awais (ISE) (Room 4-18) (11:00-12:30) (THU)
+4 Dr.Awais (ISE) (Room 4-19) (14:00-15:30) (THU)
+
+Tuesday:
+3 Engr.Waleed (OOP-Lab) (Room 4-01) (14:00-15:30) (TUE)
+1 Engr.Sadaf (DS) (Room 4-17) (09:00-10:30) (TUE)
+2 Dr.Tamim (OOP) (Room 4-18) (11:00-12:30) (TUE)
+
+Wednesday:
+3 Engr.Waleed (OOP-Lab) (Room 4-01) (14:00-15:30) (WED)
+1 Engr.Sadaf (DS) (Room 4-17) (09:00-10:30) (WED)
+2 Dr.Tamim (OOP) (Room 4-18) (11:00-12:30) (WED)

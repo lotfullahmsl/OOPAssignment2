@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <ProjectGuid>{AF9ECDF4-AB12-4299-B5D8-7C805F99A438}</ProjectGuid>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>OOPAssignment2</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BSE_A_Teachers.cpp" />
+    <ClCompile Include="BSE_B_Teachers.cpp" />
+    <ClCompile Include="BSE_C_Teachers.cpp" />
+    <ClCompile Include="BSE_D_Teachers.cpp" />
+    <ClCompile Include="BSE_E_Teachers.cpp" />
+    <ClCompile Include="DayWise.cpp" />
+    <ClCompile Include="DWTT.cpp" />
+    <ClCompile Include="MyForm2.cpp" />
+    <ClCompile Include="MyForm3.cpp" />
+    <ClCompile Include="MyForm4.cpp" />
+    <ClCompile Include="OOP-Assignment-02.cpp" />
+    <ClCompile Include="RoomWise.cpp" />
+    <ClCompile Include="RWTT.cpp" />
+    <ClCompile Include="SectionChoise.cpp" />
+    <ClCompile Include="SectionWise.cpp" />
+    <ClCompile Include="SelectSection.cpp" />
+    <ClCompile Include="ShowSectionTT.cpp" />
+    <ClCompile Include="ShowTimeTable.cpp" />
+    <ClCompile Include="ShowTimrTable.cpp" />
+    <ClCompile Include="SWTT.cpp" />
+    <ClCompile Include="TWTT.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BSE_A_Teachers.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="BSE_B_Teachers.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="BSE_C_Teachers.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="BSE_D_Teachers.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="BSE_E_Teachers.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="DayWise.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="DWTT.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="MyForm2.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="MyForm3.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="MyForm4.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="OOP-Assignment-02.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="RoomWise.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="RWTT.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="SectionChoise.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="SectionWise.h" />
+    <ClInclude Include="SelectSection.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="ShowSectionTT.h" />
+    <ClInclude Include="ShowTimeTable.h" />
+    <ClInclude Include="SWTT.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="TWTT.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BSE_A_Teachers.resx">
+      <DependentUpon>BSE_A_Teachers.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSE_B_Teachers.resx">
+      <DependentUpon>BSE_B_Teachers.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSE_C_Teachers.resx">
+      <DependentUpon>BSE_C_Teachers.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSE_D_Teachers.resx">
+      <DependentUpon>BSE_D_Teachers.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSE_E_Teachers.resx">
+      <DependentUpon>BSE_E_Teachers.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DayWise.resx">
+      <DependentUpon>DayWise.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DWTT.resx">
+      <DependentUpon>DWTT.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm2.resx">
+      <DependentUpon>MyForm2.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm3.resx">
+      <DependentUpon>MyForm3.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm4.resx">
+      <DependentUpon>MyForm4.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OOP-Assignment-02.resx">
+      <DependentUpon>OOP-Assignment-02.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RoomWise.resx">
+      <DependentUpon>RoomWise.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RWTT.resx">
+      <DependentUpon>RWTT.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SectionChoise.resx">
+      <DependentUpon>SectionChoise.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectSection.resx">
+      <DependentUpon>SelectSection.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SWTT.resx">
+      <DependentUpon>SWTT.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TWTT.resx">
+      <DependentUpon>TWTT.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
